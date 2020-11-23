@@ -1,0 +1,118 @@
+body{
+    background-color: cornsilk;
+}
+
+
+
+.header{
+    text-align: center;
+    color:black;
+    background-color: grey;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border:30px #b6b6af solid;
+    border-radius: 30%;
+    margin: 0px;
+}
+.header h1{
+    text-align: center;
+    font-size: larger;
+    font-style: oblique;
+   
+    text-align: center;
+    padding: 3%;
+    margin: 0%;
+}
+
+#container{
+    overflow: auto;
+    height: 1000px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    text-align: center;
+    color: black;
+    background-color: bisque;
+    border: gray 2px solid;
+    border-radius: 10%;
+    font-size: 38px;
+    font-weight: 100;
+    font-style: initial;
+    font-family: monospace;
+}
+
+#container p{
+    font-size: 25px;
+    font-weight: 100;
+}
+
+
+.left{
+    width: 49%;
+    background-color: khaki;
+    border:2px gray dotted;
+    border-radius: 5%;
+    float:left;
+}
+
+
+
+
+.right{
+    float: right;
+    
+    width:49%;
+    margin-left:0px;
+    border:2px gray dotted;
+    border-radius: 5%;
+
+  
+}
+.nav{
+  
+
+    font-size: 45px;
+    background-color: cornsilk;
+    font-weight: 200;
+    font-family: monospace;
+
+
+
+
+}
+.nav button{
+    font-size: 45px;
+    background-color: cornsilk;
+    font-weight: 200;
+    font-family: monospace;
+    border: darkblue 3px sollid;
+    border-radius: 5%;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+
+}
+
+/***************************************
+            footer
+***************************************/
+
+
+
+#footer{
+    color: white;
+    background-color: black;
+    height: 30px;
+   
+    margin-top: 0;
+}
+#footer p{
+    font-size: 10px;
+    text-align: center;
+    padding-top: 10px;
+
+}
